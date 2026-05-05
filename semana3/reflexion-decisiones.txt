@@ -1,8 +1,8 @@
 Reflexión sobre decisiones responsables – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yuliana Salcedo Ortiz
+Fecha: 4 de mayo de 2026
+Nombre de la rama: yuliana_salcedo_ortiz
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +18,4 @@ En tu respuesta menciona al menos dos de estas ideas:
 - responsabilidad digital
 - convivencia en internet
 
-Respuesta:
+Respuesta: Tomar decisiones responsables en internet es crucial para mantener un entorno seguro y positivo. Antes de compartir información, es esencial verificar su veracidad para evitar la propagación de desinformación que puede confundir a la comunidad. Usar un lenguaje claro en propuestas comunitarias fomenta la confianza y facilita la participación ciudadana. La responsabilidad digital implica pensar en las consecuencias de nuestras acciones en línea, promoviendo una convivencia en internet basada en el respeto y la verdad. Al evaluar condiciones como en los algoritmos de JavaScript, aprendemos a aplicar lógica similar en la vida real, asegurando que nuestras contribuciones digitales sean beneficiosas y no perjudiciales.
